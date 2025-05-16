@@ -21,7 +21,7 @@ export const Hero = () => {
           </AnimatedShinyText>
         </div>
         <h1 className="text-6xl font-bold text-white tracking-tight">
-          Eternal Key
+          Solana TrustLock
         </h1>
       </div>
       <p className="text-xl text-zinc-400 max-w-2xl mx-auto leading-relaxed">

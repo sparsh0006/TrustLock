@@ -18,7 +18,7 @@ export const Dashboard = () => {
         <div className="max-w-6xl mx-auto flex justify-between items-center px-6 py-4">
           <div className="flex items-center space-x-4">
             <h1 className="text-xl font-medium text-white">
-              Eternal Key
+              Solana TrustLock
             </h1>
             <span className="px-2.5 py-0.5 rounded-full text-xs bg-zinc-800 text-zinc-400 border border-zinc-700">
               Dashboard

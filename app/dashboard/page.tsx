@@ -43,7 +43,7 @@ const Dashboard: FC = () => {
     <div className="min-h-screen bg-gray-900 text-white">
       <nav className="bg-gray-800 p-4">
         <div className="max-w-7xl mx-auto flex justify-between items-center">
-          <h1 className="text-2xl font-bold">Eternal Key</h1>
+          <h1 className="text-2xl font-bold">Solana TrustLock</h1>
           <div className="flex items-center space-x-4">
             <button
               onClick={() => router.push('/')}

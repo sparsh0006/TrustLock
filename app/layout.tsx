@@ -17,23 +17,23 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://eternalkey.xyz"),
-  title: "Eternal Key - Decentralized Crypto Inheritance on Solana",
+  metadataBase: new URL("https://github.com/sparsh0006/TrustLock"),
+  title: "Solana TrustLock - Decentralized Crypto Inheritance on Solana",
   description: "A decentralized dead man's switch for crypto inheritance on Solana. Secure your digital assets' future with automated, trustless transfers to designated beneficiaries.",
   keywords: ["crypto inheritance", "Solana", "dead man's switch", "digital assets", "blockchain inheritance", "crypto inheritance", "decentralized inheritance"],
   openGraph: {
-    title: "Eternal Key - Decentralized Crypto Inheritance on Solana",
+    title: " Solana TrustLock - Decentralized Crypto Inheritance on Solana",
     description: "Secure your crypto assets' future with automated, trustless inheritance on Solana. Set up a dead man's switch for your digital assets.",
-    url: "https://eternalkey.xyz",
-    siteName: "Eternal Key",
+    url: "https://github.com/sparsh0006/TrustLock",
+    siteName: "TrustLock",
     locale: "en_US",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Eternal Key - Decentralized Crypto Inheritance on Solana",
+    title: " Solana TrustLock - Decentralized Crypto Inheritance on Solana",
     description: "Secure your crypto assets' future with automated, trustless inheritance on Solana.",
-    creator: "@amritwt",
+    creator: "@sparshtwt",
   },
   icons: {
     icon: [

@@ -7,10 +7,10 @@ export const FAQ = () => {
       <Accordion type="single" collapsible className="w-full space-y-4">
         <AccordionItem value="item-1" className="border-none bg-zinc-900/50 rounded-lg px-4">
           <AccordionTrigger className="hover:no-underline text-white py-4">
-            How does Eternal Key work?
+            How does Solana TrustLock work?
           </AccordionTrigger>
           <AccordionContent className="text-zinc-400 pb-4">
-            Eternal Key uses smart contracts on the Solana blockchain to create a secure, automated inheritance system. 
+            Solana TrustLock uses smart contracts on the Solana blockchain to create a secure, automated inheritance system. 
             You first set up an escrow which stores your assets, and specify the transfer amount along with a time period.
           </AccordionContent>
         </AccordionItem>
@@ -30,7 +30,7 @@ export const FAQ = () => {
             Is this secure?
           </AccordionTrigger>
           <AccordionContent className="text-zinc-400 pb-4">
-            Yes, alot. Eternal Key is built on Solana&apos;s blockchain, ensuring maximum security and transparency. 
+            Yes, alot. Solana TrustLock is built on Solana&apos;s blockchain, ensuring maximum security and transparency. 
             All transactions and rules are enforced by smart contracts, making the process completely trustless and automated.
           </AccordionContent>
         </AccordionItem>
@@ -40,7 +40,7 @@ export const FAQ = () => {
             How do I verify this so I can trust it?
           </AccordionTrigger>
           <AccordionContent className="text-zinc-400 pb-4">
-            You can verify the code and smart contract by checking the source code on <a href="https://github.com/amritwt/eternal-key" className="underline">Github</a>.
+            You can verify the code and smart contract by checking the source code on <a href="https://github.com/sparsh0006/TrustLock" className="underline">Github</a>.
           </AccordionContent>
         </AccordionItem>
       </Accordion>
